@@ -1,0 +1,28 @@
+button
+{
+    
+
+    padding-top: 10 px;
+    padding: 5px;
+    font-weight: bold;
+    width: 200px;
+    background-color: salon;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+body{
+    background-image: url("counting.png");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+.container{
+    background:burlywood;
+    max-width: 75%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
